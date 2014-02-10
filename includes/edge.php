@@ -32,3 +32,7 @@
 <li class="colk"><a href="?prop=template-layout">template layout</a></li>
 <li class="colk"><a href="?prop=bg-local">bg-attachment: local</a></li>
 <li class="colk"><a href="?prop=object-fit-position">object-fit/position</a></li>
+
+<li class="coldu"><a href="?prop=counter">counter</a></li>
+<li class="coldu"><a href="?prop=content">content</a></li>
+<li class="coldu"><a href="?prop=media-query">media query</a></li>
