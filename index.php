@@ -5,7 +5,7 @@ if (isset($_GET["prop"])) {
     $prop = "feature-default";
 }
 
-echo $qs;
+echo $prop;
 
 $proptitlestr = str_replace("feature-", "", $prop);
 ?><!doctype html>
