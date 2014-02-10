@@ -1,6 +1,5 @@
-var s = null,
-
-    Css3clickchart = {
+var s = null;
+Css3clickchart = {
         settings: {
             pathRoot: 'includes/',
             path: 'includes/features/',
@@ -271,8 +270,7 @@ var s = null,
 
         }
 
-    };
-
+};
 $(function () {
     Css3clickchart.init();
 });
